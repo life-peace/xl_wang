@@ -5,7 +5,7 @@
 2. Use 2 different websites to support the visualization of data structures.
 	1. [VisuAlgo](https://visualgo.net/en)
 	2. [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-3. Practice makes perfect. For every kind of data structure you'll have to finish 15 problems on [LeetCode](https://leetcode.com/), including 10 easy and 5 medium. 
+3. Practice makes perfect. For every kind of data structure you'll have to finish 15 problems on [LeetCode](https://leetcode.com/), including 10 easy and 5 medium. 
 4. [MIT 6.006 Introduction to Algorithms](https://github.com/conanhujinming/comments-for-awesome-courses)  ***FINISH THE HOMEWORK!!!***
 5. By the end of this summer, you should be able to distinguish the difference between data structures and algorithms and work out most of those easy problems on your own.
 

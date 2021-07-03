@@ -15,3 +15,7 @@
 2. 鸟哥的 Linux 私房菜
 3. [MIT 6.S081 Introduction to Operating System](https://github.com/conanhujinming/comments-for-awesome-courses) ***FINISH THE EXPERIMENTS!!!***
 4. By the end of this summer, you should be able to master common Linux commands and have a general knowledge of Operating System.
+
+---
+## HackerRank
+* [Regex Practice](https://www.hackerrank.com/dashboard)

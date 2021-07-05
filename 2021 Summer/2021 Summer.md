@@ -17,10 +17,6 @@
 4. By the end of this summer, you should be able to master common Linux commands and have a general knowledge of Operating System.
 
 ---
-## HackerRank
-* [Regex Practice](https://www.hackerrank.com/dashboard)
-
----
 ## Others
 1. Python
 2. [Havard CS50](https://cs50.harvard.edu/)

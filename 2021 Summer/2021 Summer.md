@@ -18,7 +18,7 @@
 
 ---
 ## Others
-1. [Python](https://www.w3schools.com/python/)
+1. [Python](https://www.w3schools.com/python/) (Use W3Schools to learn Python, Java and SQL by searching *Python tutorial* etc.)
 2. [Havard CS50](https://cs50.harvard.edu/)
 3. 赖世雄
 4. [The missing semester of your CS education](https://missing.csail.mit.edu/)
